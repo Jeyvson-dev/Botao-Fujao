@@ -1,0 +1,26 @@
+#yes{
+width: 11%;
+}
+#no{
+width: 6%;
+margin-left: 2%;
+position: absolute;
+/*margin-left: -40%;
+margin-top: -10%;*/
+}
+h1{
+color: orange !important;
+margin-left: 7%;
+}
+body{   
+    background-image: url("imagens/projeto-de-plano-de-fundo-de-tecnologia-em-estilo-digital-em-fundo-azul-escuro_49459-656.avif");
+    background-size: cover;
+    text-align: center;
+    padding-top: 10%;
+    padding-left: 30%;
+    margin: 0 auto;
+}
+#buttons{ 
+   margin-left: 11%;
+}
+
